@@ -788,10 +788,12 @@ $allTicketsData = array_map(fn($t) => $t->toArray(), $allTicketsObj);
             initDashboard();
         });
 
-        // Initialize and Load Data
+        // Initialize and Load Data in Parallel
         async function initDashboard() {
-            await fetchDashboardAnalytics();
-            await fetchAllTicketsMaster();
+            await Promise.all([
+                fetchDashboardAnalytics(),
+                fetchAllTicketsMaster()
+            ]);
         }
 
         // 1. Fetch Analytics Data

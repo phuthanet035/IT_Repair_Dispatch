@@ -23,13 +23,17 @@ class Database {
                     PDO::ATTR_ERRMODE => PDO::ERRMODE_EXCEPTION,
                     PDO::ATTR_DEFAULT_FETCH_MODE => PDO::FETCH_ASSOC,
                     PDO::ATTR_EMULATE_PREPARES => false,
+                    PDO::ATTR_TIMEOUT => 2,
                 ];
                 self::$instance = new PDO($dsn, DB_USER, DB_PASS, $options);
                 self::$driver = 'mysql';
             } catch (PDOException $e) {
                 try {
                     $rootDsn = "mysql:host=" . DB_HOST . ";port=" . DB_PORT . ";charset=utf8mb4";
-                    $rootPdo = new PDO($rootDsn, DB_USER, DB_PASS, [PDO::ATTR_ERRMODE => PDO::ERRMODE_EXCEPTION]);
+                    $rootPdo = new PDO($rootDsn, DB_USER, DB_PASS, [
+                        PDO::ATTR_ERRMODE => PDO::ERRMODE_EXCEPTION,
+                        PDO::ATTR_TIMEOUT => 2,
+                    ]);
                     $rootPdo->exec("CREATE DATABASE IF NOT EXISTS `" . DB_NAME . "` CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;");
                     self::$instance = new PDO($dsn, DB_USER, DB_PASS, [
                         PDO::ATTR_ERRMODE => PDO::ERRMODE_EXCEPTION,
@@ -61,6 +65,16 @@ class Database {
     private static function initTables(): void {
         $pdo = self::$instance;
         if (self::$driver === 'sqlite') {
+            // เช็คว่าเคย Initialized ตารางแล้วหรือไม่ หากมีแล้วให้ข้ามทันทีเพื่อความเร็ว
+            try {
+                $check = $pdo->query("SELECT 1 FROM repair_tickets LIMIT 1");
+                if ($check !== false) {
+                    return;
+                }
+            } catch (Exception $e) {
+                // ยังไม่มีตาราง ทำการสร้างตาราง
+            }
+
             $pdo->exec("CREATE TABLE IF NOT EXISTS users (
                 id INTEGER PRIMARY KEY AUTOINCREMENT,
                 username TEXT UNIQUE NOT NULL,
@@ -134,7 +148,16 @@ class Database {
                     ('AST-4001', 'Cisco Wi-Fi Router (ชั้น 2)', 'Network', 1, 'Normal')");
             }
         } else {
-            // MySQL Initialization
+            // MySQL Initialization: ตรวจสอบว่ามีตาราง repair_tickets อยู่แล้วหรือไม่ หากมีแล้วให้ข้าม schema.sql ทันที
+            try {
+                $check = $pdo->query("SELECT 1 FROM `repair_tickets` LIMIT 1");
+                if ($check !== false) {
+                    return; // มีตารางแล้ว ข้ามเพื่อประสิทธิภาพสูงสุด ไม่ล็อกตาราง
+                }
+            } catch (Exception $e) {
+                // ยังไม่มีตาราง ดำเนินการรัน schema.sql ด้านล่าง
+            }
+
             $sqlScript = file_get_contents(__DIR__ . '/../schema.sql');
             if ($sqlScript) {
                 $pdo->exec($sqlScript);

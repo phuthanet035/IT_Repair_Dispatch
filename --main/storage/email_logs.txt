@@ -427,3 +427,13 @@
 [2026-09-20 04:57:43] SUCCESS via SMTP: COMPLETED Ticket JOB-1006 (User: rungthip@company.com) to rungthip@company.com
 [2026-09-20 05:54:24] LOGGED (Local Sim): JOB ASSIGNED to กิตติ ช่างเน็ตเวิร์ก (kitti@company.com) to kitti@company.com
 [2026-09-20 05:54:53] LOGGED (Local Sim): JOB ASSIGNED to สมศักดิ์ หัวหน้าแอดมิน IT (Admin) (admin@company.com) to admin@company.com
+[2026-09-20 11:21:04] LOGGED (Local Sim): CREATED Ticket JOB-1889 (Admin) to it-support@company.com
+[2026-09-20 11:21:06] LOGGED (Local Sim): CREATED Ticket JOB-1889 (User: somchai@company.com) to somchai@company.com
+[2026-09-20 11:21:08] LOGGED (Local Sim): COMPLETED Ticket JOB-1889 (User: somchai@company.com) to somchai@company.com
+[2026-09-20 11:22:48] LOGGED (Local Sim): CREATED Ticket JOB-2686 (Admin) to it-support@company.com
+[2026-09-20 11:22:48] LOGGED (Local Sim): CREATED Ticket JOB-2686 (User: somchai@company.com) to somchai@company.com
+[2026-09-20 11:22:48] LOGGED (Local Sim): COMPLETED Ticket JOB-2686 (User: somchai@company.com) to somchai@company.com
+[2026-09-20 11:24:15] LOGGED (Local Sim): CREATED Ticket JOB-4405 (Admin) to it-support@company.com
+[2026-09-20 11:24:15] LOGGED (Local Sim): CREATED Ticket JOB-4405 (User: somchai@company.com) to somchai@company.com
+[2026-09-20 11:24:15] LOGGED (Local Sim): COMPLETED Ticket JOB-4405 (User: somchai@company.com) to somchai@company.com
+[2026-09-20 11:36:16] LOGGED (Local Sim): JOB ASSIGNED to กิตติ ช่างเน็ตเวิร์ก (kitti@company.com) to kitti@company.com

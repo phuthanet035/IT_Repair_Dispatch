@@ -886,6 +886,13 @@ $isTechOrAdmin = $currentUser ? $currentUser->isTechOrAdmin() : false;
                 formData.append('issue_image', fileInput.files[0]);
             }
 
+            const submitBtn = e.target.querySelector('button[type="submit"]') || e.submitter;
+            const originalBtnHtml = submitBtn ? submitBtn.innerHTML : '';
+            if (submitBtn) {
+                submitBtn.disabled = true;
+                submitBtn.innerHTML = '<i class="fa-solid fa-spinner fa-spin mr-2"></i> กำลังบันทึกข้อมูล...';
+            }
+
             try {
                 const res = await fetch('api.php?action=create_ticket', {
                     method: 'POST',
@@ -910,6 +917,11 @@ $isTechOrAdmin = $currentUser ? $currentUser->isTechOrAdmin() : false;
                 }
             } catch (err) {
                 showToast('เกิดข้อผิดพลาดในการส่งข้อมูล: ' + err.message, 'error');
+            } finally {
+                if (submitBtn) {
+                    submitBtn.disabled = false;
+                    submitBtn.innerHTML = originalBtnHtml;
+                }
             }
         }
 

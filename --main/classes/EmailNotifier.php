@@ -267,9 +267,10 @@ class EmailNotifier {
         $driver = $this->mailConfig['driver'] ?? 'brevo_api';
         $smtpActive = !empty($this->mailConfig['smtp_active']);
 
-        // หากปิดเปิดใช้งานส่งจริง (smtp_active == true)
+        // หากเปิดใช้งานส่งจริง (smtp_active == true)
         if ($smtpActive) {
-            if ($driver === 'brevo_api' || !empty($this->mailConfig['brevo_api_key'])) {
+            $brevoKey = trim($this->mailConfig['brevo_api_key'] ?? '');
+            if (($driver === 'brevo_api' || !empty($brevoKey)) && !empty($brevoKey)) {
                 $sent = $this->sendBrevoApi($to, $subject, $body);
                 if ($sent) {
                     $this->logEmail("SUCCESS via Brevo REST API: $logContext to $to");
@@ -279,7 +280,8 @@ class EmailNotifier {
                 }
             }
 
-            if ($driver === 'smtp' || !empty($this->mailConfig['username'])) {
+            $smtpUser = trim($this->mailConfig['username'] ?? '');
+            if (($driver === 'smtp' || !empty($smtpUser)) && !empty($smtpUser)) {
                 $sent = $this->sendSmtp($to, $subject, $body, $this->mailConfig);
                 if ($sent) {
                     $this->logEmail("SUCCESS via SMTP: $logContext to $to");
@@ -290,15 +292,7 @@ class EmailNotifier {
             }
         }
 
-        // Standard mail() / Local Fallback Logging
-        $headers = [
-            'MIME-Version: 1.0',
-            'Content-type: text/html; charset=UTF-8',
-            'From: ' . ($this->mailConfig['from_name'] ?? 'IT Repair System') . ' <' . ($this->mailConfig['from_email'] ?? 'no-reply@company.com') . '>',
-            'Reply-To: ' . ($this->mailConfig['from_email'] ?? 'no-reply@company.com'),
-            'X-Mailer: PHP/' . phpversion()
-        ];
-        @mail($to, $subject, $body, implode("\r\n", $headers));
+        // Local Simulation Log: ไม่เรียก @mail() เพื่อป้องกัน Timeout 30-60 วินาทีบน Windows/XAMPP
         $this->logEmail("LOGGED (Local Sim): $logContext to $to");
         return true;
     }
@@ -393,11 +387,12 @@ class EmailNotifier {
             ]
         ]);
 
-        $socket = @stream_socket_client("$host:$port", $errno, $errstr, 3, STREAM_CLIENT_CONNECT, $context);
+        $socket = @stream_socket_client("$host:$port", $errno, $errstr, 2, STREAM_CLIENT_CONNECT, $context);
         if (!$socket) {
             $this->logEmail("SMTP Connection Failed to $host:$port - Error: $errstr ($errno)");
             return false;
         }
+        stream_set_timeout($socket, 2);
 
         $getResponse = function($s) {
             $res = '';

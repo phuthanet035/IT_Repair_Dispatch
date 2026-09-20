@@ -47,6 +47,11 @@ try {
     $costCalculator = new RepairCostCalculator();
     $ticketController = new RepairTicketController();
 
+    // ปลดล็อก Session File Lock สำหรับคำขอทั่วไป เพื่อให้ Requests ทำงานคู่ขนานได้ทันที (Non-blocking)
+    if (session_status() === PHP_SESSION_ACTIVE && !in_array($action, ['quick_admin_login', 'assign_technician', 'unassign_technician', 'auto_dispatch'])) {
+        session_write_close();
+    }
+
     switch ($action) {
 
         // 1. ดึงรายการอุปกรณ์ทั้งหมด
@@ -214,6 +219,7 @@ try {
             if (session_status() === PHP_SESSION_NONE) session_start();
             $userManager = new UserManager();
             $user = $userManager->login('Admin', '1234') ?? $userManager->login('admin', '1234');
+            if (session_status() === PHP_SESSION_ACTIVE) session_write_close();
             if ($user && $user->isAdmin()) {
                 echo json_encode([
                     'success' => true,
@@ -262,6 +268,7 @@ try {
                 break;
             }
 
+            if (session_status() === PHP_SESSION_ACTIVE) session_write_close();
             $success = $ticketController->reassignTechnician($ticketId, $techName);
             if ($success) {
                 echo json_encode([
@@ -305,6 +312,7 @@ try {
                 break;
             }
 
+            if (session_status() === PHP_SESSION_ACTIVE) session_write_close();
             $success = $ticketController->unassignTechnician($ticketId);
             if ($success) {
                 echo json_encode([
@@ -349,6 +357,7 @@ try {
             }
 
             try {
+                if (session_status() === PHP_SESSION_ACTIVE) session_write_close();
                 $dispatchResult = $ticketController->autoDispatchTicket($ticketId);
                 echo json_encode([
                     'success' => true,
@@ -390,6 +399,7 @@ try {
             }
 
             try {
+                if (session_status() === PHP_SESSION_ACTIVE) session_write_close();
                 $success = $ticketController->claimTicket($ticketId, $techName);
                 if ($success) {
                     echo json_encode(['success' => true, 'message' => "🎉 ช่าง [$techName] กดรับงาน $ticketId เรียบร้อยแล้ว! (สถานะ: กำลังซ่อม)"]);

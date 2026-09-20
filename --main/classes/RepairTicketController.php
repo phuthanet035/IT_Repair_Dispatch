@@ -535,7 +535,27 @@ class RepairTicketController {
             ORDER BY active_jobs DESC, u.full_name ASC";
         $technicians = $this->pdo->query($techSql)->fetchAll();
 
-        // นับจำนวนช่างที่ On-Duty
+        // ดึงรายการตั๋วที่กำลังทำอยู่ของช่างทุกคนในคราวเดียว (Single Batch Query แทน N+1 Queries)
+        $allActiveStmt = $this->pdo->query("SELECT ticket_id, asset_id, device_type, issue_description, priority, status, created_at, assigned_technician 
+            FROM repair_tickets 
+            WHERE assigned_technician IS NOT NULL AND assigned_technician != '' AND status IN ('Pending', 'In Progress')
+            ORDER BY CASE priority 
+                WHEN 'Urgent' THEN 1 
+                WHEN 'High' THEN 2 
+                WHEN 'Normal' THEN 3 
+                WHEN 'Low' THEN 4 
+                ELSE 5 END ASC, id DESC");
+        $allActiveRows = $allActiveStmt->fetchAll();
+        $ticketsByTech = [];
+        foreach ($allActiveRows as $row) {
+            $tName = $row['assigned_technician'];
+            if (!isset($ticketsByTech[$tName])) {
+                $ticketsByTech[$tName] = [];
+            }
+            $ticketsByTech[$tName][] = $row;
+        }
+
+        // นับจำนวนช่างที่ On-Duty และผูกรายการงาน
         $availableTechCount = 0;
         foreach ($technicians as &$tech) {
             $tech['active_jobs'] = (int)($tech['active_jobs'] ?? 0);
@@ -544,19 +564,7 @@ class RepairTicketController {
             if ($tech['duty_status'] === 'Available') {
                 $availableTechCount++;
             }
-
-            // ดึงรายการตั๋วที่กำลังทำอยู่ของช่างคนนี้ (Active Tickets)
-            $activeStmt = $this->pdo->prepare("SELECT ticket_id, asset_id, device_type, issue_description, priority, status, created_at 
-                FROM repair_tickets 
-                WHERE assigned_technician = :tech AND status IN ('Pending', 'In Progress')
-                ORDER BY CASE priority 
-                    WHEN 'Urgent' THEN 1 
-                    WHEN 'High' THEN 2 
-                    WHEN 'Normal' THEN 3 
-                    WHEN 'Low' THEN 4 
-                    ELSE 5 END ASC, id DESC");
-            $activeStmt->execute([':tech' => $tech['full_name']]);
-            $tech['active_tickets'] = $activeStmt->fetchAll();
+            $tech['active_tickets'] = $ticketsByTech[$tech['full_name']] ?? [];
         }
         unset($tech);
 
