@@ -1,0 +1,429 @@
+[2026-09-17 05:05:58] EMAIL NOTIFICATION SENT for Ticket JOB-7330 to Admin (it-support@company.com)
+[2026-09-17 05:08:03] EMAIL NOTIFICATION SENT for Ticket JOB-5177 to Admin (it-support@company.com) and User (alkjhgfdslss@gmail.com)
+[2026-09-17 05:08:06] EMAIL NOTIFICATION SENT for Ticket JOB-7484 to Admin (it-support@company.com) and User (alkjhgfdslss@gmail.com)
+[2026-09-17 05:14:37] EMAIL NOTIFICATION SENT for Ticket JOB-1155 to Admin (it-support@company.com)
+[2026-09-17 05:14:52] EMAIL NOTIFICATION SENT for Ticket JOB-6693 to Admin (it-support@company.com)
+[2026-09-17 05:15:41] EMAIL NOTIFICATION SENT for Ticket JOB-4149 to Admin (it-support@company.com)
+[2026-09-17 05:19:23] EMAIL NOTIFICATION SENT for Ticket JOB-7206 to Admin (it-support@company.com) and User (alkjhgfdslss@gmail.com)
+[2026-09-17 05:26:15] EMAIL NOTIFICATION SENT for Ticket JOB-9601 to Admin (it-support@company.com) and User (somchai@company.com)
+[2026-09-17 05:28:30] EMAIL NOTIFICATION SENT for Ticket JOB-1750 to Admin (it-support@company.com) and User (somchai@company.com)
+[2026-09-17 05:28:34] EMAIL NOTIFICATION SENT for Ticket JOB-5448 to Admin (it-support@company.com) and User (somchai@company.com)
+[2026-09-17 05:30:01] EMAIL NOTIFICATION SENT for Ticket JOB-8075 to Admin (it-support@company.com) and User (somchai@company.com)
+[2026-09-17 05:32:24] EMAIL NOTIFICATION SENT for Ticket JOB-3799 to Admin (it-support@company.com) and User (somchai@company.com)
+[2026-09-17 05:33:58] EMAIL NOTIFICATION: CREATED Ticket JOB-1715 to Admin (it-support@company.com) and User (somchai@company.com)
+[2026-09-17 05:34:00] EMAIL NOTIFICATION: COMPLETED Ticket JOB-1715 sent notification to User (somchai@company.com)
+[2026-09-17 05:34:59] EMAIL NOTIFICATION: CREATED Ticket JOB-7295 to Admin (it-support@company.com) and User (alkjhgfdslss@gmail.com)
+[2026-09-17 05:35:02] EMAIL NOTIFICATION: CREATED Ticket JOB-9198 to Admin (it-support@company.com) and User (alkjhgfdslss@gmail.com)
+[2026-09-17 05:36:28] EMAIL NOTIFICATION: COMPLETED Ticket JOB-9198 sent notification to User (alkjhgfdslss@gmail.com)
+[2026-09-17 05:36:29] EMAIL NOTIFICATION: COMPLETED Ticket JOB-9198 sent notification to User (alkjhgfdslss@gmail.com)
+[2026-09-17 05:37:35] EMAIL NOTIFICATION: CREATED Ticket JOB-9033 to Admin (it-support@company.com) and User (somchai@company.com)
+[2026-09-17 05:37:37] EMAIL NOTIFICATION: COMPLETED Ticket JOB-9033 sent notification to User (somchai@company.com)
+[2026-09-17 05:43:02] LOGGED (Local Sim): CREATED Ticket JOB-7469 (Admin) to it-support@company.com
+[2026-09-17 05:43:04] LOGGED (Local Sim): CREATED Ticket JOB-7469 (User: somchai@company.com) to somchai@company.com
+[2026-09-17 05:43:07] LOGGED (Local Sim): COMPLETED Ticket JOB-7469 (User: somchai@company.com) to somchai@company.com
+[2026-09-17 05:46:00] LOGGED (Local Sim): CREATED Ticket JOB-2401 (Admin) to it-support@company.com
+[2026-09-17 05:46:02] LOGGED (Local Sim): CREATED Ticket JOB-2401 (User: somchai@company.com) to somchai@company.com
+[2026-09-17 05:46:04] LOGGED (Local Sim): COMPLETED Ticket JOB-2401 (User: somchai@company.com) to somchai@company.com
+[2026-09-17 05:47:12] LOGGED (Local Sim): COMPLETED Ticket JOB-2401 (User: somchai@company.com) to somchai@company.com
+[2026-09-17 05:49:45] LOGGED (Local Sim): CREATED Ticket JOB-5509 (Admin) to it-support@company.com
+[2026-09-17 05:49:47] LOGGED (Local Sim): CREATED Ticket JOB-5509 (User: somchai@company.com) to somchai@company.com
+[2026-09-17 05:49:49] LOGGED (Local Sim): COMPLETED Ticket JOB-5509 (User: somchai@company.com) to somchai@company.com
+[2026-09-17 05:53:19] LOGGED (Local Sim): CREATED Ticket JOB-4302 (Admin) to it-support@company.com
+[2026-09-17 05:53:21] LOGGED (Local Sim): CREATED Ticket JOB-4302 (User: somchai@company.com) to somchai@company.com
+[2026-09-17 05:53:23] LOGGED (Local Sim): COMPLETED Ticket JOB-4302 (User: somchai@company.com) to somchai@company.com
+[2026-09-17 05:54:58] LOGGED (Local Sim): CREATED Ticket JOB-1756 (Admin) to it-support@company.com
+[2026-09-17 05:55:00] LOGGED (Local Sim): CREATED Ticket JOB-1756 (User: alkjhgfdslss@gmail.com) to alkjhgfdslss@gmail.com
+[2026-09-17 05:55:01] LOGGED (Local Sim): CREATED Ticket JOB-9071 (Admin) to it-support@company.com
+[2026-09-17 05:55:03] LOGGED (Local Sim): CREATED Ticket JOB-9071 (User: alkjhgfdslss@gmail.com) to alkjhgfdslss@gmail.com
+[2026-09-17 05:56:51] LOGGED (Local Sim): CREATED Ticket JOB-5407 (Admin) to it-support@company.com
+[2026-09-17 05:56:53] LOGGED (Local Sim): CREATED Ticket JOB-5407 (User: somchai@company.com) to somchai@company.com
+[2026-09-17 05:56:55] LOGGED (Local Sim): COMPLETED Ticket JOB-5407 (User: somchai@company.com) to somchai@company.com
+[2026-09-17 05:58:59] LOGGED (Local Sim): CREATED Ticket JOB-1506 (Admin) to it-support@company.com
+[2026-09-17 05:59:01] LOGGED (Local Sim): CREATED Ticket JOB-1506 (User: admin@company.com) to admin@company.com
+[2026-09-17 05:59:03] LOGGED (Local Sim): CREATED Ticket JOB-5949 (Admin) to it-support@company.com
+[2026-09-17 05:59:05] LOGGED (Local Sim): CREATED Ticket JOB-5949 (User: admin@company.com) to admin@company.com
+[2026-09-17 06:01:32] LOGGED (Local Sim): CREATED Ticket JOB-4890 (Admin) to it-support@company.com
+[2026-09-17 06:01:34] LOGGED (Local Sim): CREATED Ticket JOB-4890 (User: somchai@company.com) to somchai@company.com
+[2026-09-17 06:01:36] LOGGED (Local Sim): COMPLETED Ticket JOB-4890 (User: somchai@company.com) to somchai@company.com
+[2026-09-17 06:02:46] LOGGED (Local Sim): CREATED Ticket JOB-6162 (Admin) to it-support@company.com
+[2026-09-17 06:02:48] LOGGED (Local Sim): CREATED Ticket JOB-6162 (User: alkjhgfdslss@gmail.com) to alkjhgfdslss@gmail.com
+[2026-09-17 06:02:49] LOGGED (Local Sim): CREATED Ticket JOB-4172 (Admin) to it-support@company.com
+[2026-09-17 06:02:51] LOGGED (Local Sim): CREATED Ticket JOB-4172 (User: alkjhgfdslss@gmail.com) to alkjhgfdslss@gmail.com
+[2026-09-17 06:06:41] LOGGED (Local Sim): CREATED Ticket JOB-6722 (Admin) to it-support@company.com
+[2026-09-17 06:06:43] LOGGED (Local Sim): CREATED Ticket JOB-6722 (User: somchai@company.com) to somchai@company.com
+[2026-09-17 06:06:45] LOGGED (Local Sim): COMPLETED Ticket JOB-6722 (User: somchai@company.com) to somchai@company.com
+[2026-09-17 06:09:25] LOGGED (Local Sim): COMPLETED Ticket JOB-4172 (User: alkjhgfdslss@gmail.com) to alkjhgfdslss@gmail.com
+[2026-09-17 06:09:27] LOGGED (Local Sim): COMPLETED Ticket JOB-4172 (User: alkjhgfdslss@gmail.com) to alkjhgfdslss@gmail.com
+[2026-09-17 06:10:45] LOGGED (Local Sim): COMPLETED Ticket JOB-1506 (User: admin@company.com) to admin@company.com
+[2026-09-17 06:10:47] LOGGED (Local Sim): COMPLETED Ticket JOB-1506 (User: admin@company.com) to admin@company.com
+[2026-09-17 06:10:50] LOGGED (Local Sim): COMPLETED Ticket JOB-1506 (User: admin@company.com) to admin@company.com
+[2026-09-17 06:13:09] LOGGED (Local Sim): CREATED Ticket JOB-7980 (Admin) to it-support@company.com
+[2026-09-17 06:13:11] LOGGED (Local Sim): CREATED Ticket JOB-7980 (User: wichai@company.com) to wichai@company.com
+[2026-09-17 06:13:13] LOGGED (Local Sim): CREATED Ticket JOB-2636 (Admin) to it-support@company.com
+[2026-09-17 06:13:15] LOGGED (Local Sim): CREATED Ticket JOB-2636 (User: wichai@company.com) to wichai@company.com
+[2026-09-17 06:14:12] LOGGED (Local Sim): COMPLETED Ticket JOB-2636 (User: wichai@company.com) to wichai@company.com
+[2026-09-17 06:14:14] LOGGED (Local Sim): COMPLETED Ticket JOB-2636 (User: wichai@company.com) to wichai@company.com
+[2026-09-17 06:40:24] LOGGED (Local Sim): CREATED Ticket JOB-5628 (Admin) to it-support@company.com
+[2026-09-17 06:40:26] LOGGED (Local Sim): CREATED Ticket JOB-5628 (User: somchai@company.com) to somchai@company.com
+[2026-09-17 06:40:28] LOGGED (Local Sim): COMPLETED Ticket JOB-5628 (User: somchai@company.com) to somchai@company.com
+[2026-09-17 06:48:04] LOGGED (Local Sim): CREATED Ticket JOB-2094 (Admin) to it-support@company.com
+[2026-09-17 06:48:06] LOGGED (Local Sim): CREATED Ticket JOB-2094 (User: somchai@company.com) to somchai@company.com
+[2026-09-17 06:48:08] LOGGED (Local Sim): COMPLETED Ticket JOB-2094 (User: somchai@company.com) to somchai@company.com
+[2026-09-17 06:50:47] LOGGED (Local Sim): CREATED Ticket JOB-2494 (Admin) to it-support@company.com
+[2026-09-17 06:50:49] LOGGED (Local Sim): CREATED Ticket JOB-2494 (User: somchai@company.com) to somchai@company.com
+[2026-09-17 06:50:51] LOGGED (Local Sim): COMPLETED Ticket JOB-2494 (User: somchai@company.com) to somchai@company.com
+[2026-09-17 06:51:56] LOGGED (Local Sim): COMPLETED Ticket JOB-1005 (User: manop@company.com) to manop@company.com
+[2026-09-17 06:51:58] LOGGED (Local Sim): COMPLETED Ticket JOB-1005 (User: manop@company.com) to manop@company.com
+[2026-09-18 04:20:37] LOGGED (Local Sim): CREATED Ticket JOB-6310 (Admin) to it-support@company.com
+[2026-09-18 04:20:39] LOGGED (Local Sim): CREATED Ticket JOB-6310 (User: somchai@company.com) to somchai@company.com
+[2026-09-18 04:20:41] LOGGED (Local Sim): COMPLETED Ticket JOB-6310 (User: somchai@company.com) to somchai@company.com
+[2026-09-18 04:20:57] LOGGED (Local Sim): COMPLETED Ticket JOB-TEST9999 (User: user_test@company.com) to user_test@company.com
+[2026-09-18 04:48:43] Brevo API Failed (HTTP 401): Response = {"message":"Key not found","code":"unauthorized"}
+
+[2026-09-18 04:48:44] FAILED via Brevo API, trying SMTP fallback...: COMPLETED Ticket JOB-2494 (User: somchai@company.com) to somchai@company.com
+[2026-09-18 04:48:46] LOGGED (Local Sim): COMPLETED Ticket JOB-2494 (User: somchai@company.com) to somchai@company.com
+[2026-09-18 04:56:17] Brevo API Failed (HTTP 401): Response = {"message":"Key not found","code":"unauthorized"}
+
+[2026-09-18 04:56:17] FAILED via Brevo API, trying SMTP fallback...: CREATED Ticket JOB-2833 (Admin) to it-support@company.com
+[2026-09-18 04:56:19] LOGGED (Local Sim): CREATED Ticket JOB-2833 (Admin) to it-support@company.com
+[2026-09-18 04:56:20] Brevo API Failed (HTTP 401): Response = {"message":"Key not found","code":"unauthorized"}
+
+[2026-09-18 04:56:20] FAILED via Brevo API, trying SMTP fallback...: CREATED Ticket JOB-2833 (User: alkjhgfdslss@gmail.com) to alkjhgfdslss@gmail.com
+[2026-09-18 04:56:22] LOGGED (Local Sim): CREATED Ticket JOB-2833 (User: alkjhgfdslss@gmail.com) to alkjhgfdslss@gmail.com
+[2026-09-18 04:56:23] Brevo API Failed (HTTP 401): Response = {"message":"Key not found","code":"unauthorized"}
+
+[2026-09-18 04:56:23] FAILED via Brevo API, trying SMTP fallback...: CREATED Ticket JOB-6368 (Admin) to it-support@company.com
+[2026-09-18 04:56:25] LOGGED (Local Sim): CREATED Ticket JOB-6368 (Admin) to it-support@company.com
+[2026-09-18 04:56:26] Brevo API Failed (HTTP 401): Response = {"message":"Key not found","code":"unauthorized"}
+
+[2026-09-18 04:56:26] FAILED via Brevo API, trying SMTP fallback...: CREATED Ticket JOB-6368 (User: alkjhgfdslss@gmail.com) to alkjhgfdslss@gmail.com
+[2026-09-18 04:56:28] LOGGED (Local Sim): CREATED Ticket JOB-6368 (User: alkjhgfdslss@gmail.com) to alkjhgfdslss@gmail.com
+[2026-09-18 04:57:05] Brevo API Failed (HTTP 401): Response = {"message":"Key not found","code":"unauthorized"}
+
+[2026-09-18 04:57:05] FAILED via Brevo API, trying SMTP fallback...: COMPLETED Ticket JOB-6368 (User: alkjhgfdslss@gmail.com) to alkjhgfdslss@gmail.com
+[2026-09-18 04:57:07] LOGGED (Local Sim): COMPLETED Ticket JOB-6368 (User: alkjhgfdslss@gmail.com) to alkjhgfdslss@gmail.com
+[2026-09-18 05:23:00] Brevo API Error: API Key is empty in config/mail.php
+[2026-09-18 05:23:00] FAILED via Brevo API, trying SMTP fallback...: COMPLETED Ticket JOB-2833 (User: alkjhgfdslss@gmail.com) to alkjhgfdslss@gmail.com
+[2026-09-18 05:23:07] SUCCESS via SMTP: COMPLETED Ticket JOB-2833 (User: alkjhgfdslss@gmail.com) to alkjhgfdslss@gmail.com
+[2026-09-18 05:23:07] Brevo API Error: API Key is empty in config/mail.php
+[2026-09-18 05:23:07] FAILED via Brevo API, trying SMTP fallback...: COMPLETED Ticket JOB-2833 (User: alkjhgfdslss@gmail.com) to alkjhgfdslss@gmail.com
+[2026-09-18 05:23:12] SUCCESS via SMTP: COMPLETED Ticket JOB-2833 (User: alkjhgfdslss@gmail.com) to alkjhgfdslss@gmail.com
+[2026-09-18 05:26:11] Brevo API Error: API Key is empty in config/mail.php
+[2026-09-18 05:26:11] FAILED via Brevo API, trying SMTP fallback...: CREATED Ticket JOB-2121 (Admin) to it-support@company.com
+[2026-09-18 05:26:17] SUCCESS via SMTP: CREATED Ticket JOB-2121 (Admin) to it-support@company.com
+[2026-09-18 05:26:17] Brevo API Error: API Key is empty in config/mail.php
+[2026-09-18 05:26:17] FAILED via Brevo API, trying SMTP fallback...: CREATED Ticket JOB-2121 (User: alkjhgfdslss@gmail.com) to alkjhgfdslss@gmail.com
+[2026-09-18 05:26:21] SUCCESS via SMTP: CREATED Ticket JOB-2121 (User: alkjhgfdslss@gmail.com) to alkjhgfdslss@gmail.com
+[2026-09-18 05:26:21] Brevo API Error: API Key is empty in config/mail.php
+[2026-09-18 05:26:21] FAILED via Brevo API, trying SMTP fallback...: CREATED Ticket JOB-9129 (Admin) to it-support@company.com
+[2026-09-18 05:26:25] SUCCESS via SMTP: CREATED Ticket JOB-9129 (Admin) to it-support@company.com
+[2026-09-18 05:26:25] Brevo API Error: API Key is empty in config/mail.php
+[2026-09-18 05:26:25] FAILED via Brevo API, trying SMTP fallback...: CREATED Ticket JOB-9129 (User: alkjhgfdslss@gmail.com) to alkjhgfdslss@gmail.com
+[2026-09-18 05:26:30] SUCCESS via SMTP: CREATED Ticket JOB-9129 (User: alkjhgfdslss@gmail.com) to alkjhgfdslss@gmail.com
+[2026-09-18 05:26:50] Brevo API Error: API Key is empty in config/mail.php
+[2026-09-18 05:26:50] FAILED via Brevo API, trying SMTP fallback...: COMPLETED Ticket JOB-9129 (User: alkjhgfdslss@gmail.com) to alkjhgfdslss@gmail.com
+[2026-09-18 05:26:54] SUCCESS via SMTP: COMPLETED Ticket JOB-9129 (User: alkjhgfdslss@gmail.com) to alkjhgfdslss@gmail.com
+[2026-09-18 05:31:20] Brevo API Error: API Key is empty in config/mail.php
+[2026-09-18 05:31:20] FAILED via Brevo API, trying SMTP fallback...: COMPLETED Ticket JOB-2121 (User: alkjhgfdslss@gmail.com) to alkjhgfdslss@gmail.com
+[2026-09-18 05:31:24] SUCCESS via SMTP: COMPLETED Ticket JOB-2121 (User: alkjhgfdslss@gmail.com) to alkjhgfdslss@gmail.com
+[2026-09-18 05:36:47] Brevo API Error: API Key is empty in config/mail.php
+[2026-09-18 05:36:47] FAILED via Brevo API, trying SMTP fallback...: CREATED Ticket JOB-1651 (Admin) to it-support@company.com
+[2026-09-18 05:37:02] SMTP Connection Failed to smtp.gmail.com:587 - Error: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond (10060)
+[2026-09-18 05:37:02] FAILED via SMTP: CREATED Ticket JOB-1651 (Admin) to it-support@company.com
+[2026-09-18 05:37:04] LOGGED (Local Sim): CREATED Ticket JOB-1651 (Admin) to it-support@company.com
+[2026-09-18 05:37:04] Brevo API Error: API Key is empty in config/mail.php
+[2026-09-18 05:37:04] FAILED via Brevo API, trying SMTP fallback...: CREATED Ticket JOB-1651 (User: alkjhgfdslss@gmail.com) to alkjhgfdslss@gmail.com
+[2026-09-18 05:37:19] SMTP Connection Failed to smtp.gmail.com:587 - Error: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond (10060)
+[2026-09-18 05:37:19] FAILED via SMTP: CREATED Ticket JOB-1651 (User: alkjhgfdslss@gmail.com) to alkjhgfdslss@gmail.com
+[2026-09-18 05:37:21] LOGGED (Local Sim): CREATED Ticket JOB-1651 (User: alkjhgfdslss@gmail.com) to alkjhgfdslss@gmail.com
+[2026-09-18 05:37:21] Brevo API Error: API Key is empty in config/mail.php
+[2026-09-18 05:37:21] FAILED via Brevo API, trying SMTP fallback...: CREATED Ticket JOB-1139 (Admin) to it-support@company.com
+[2026-09-18 05:37:36] SMTP Connection Failed to smtp.gmail.com:587 - Error: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond (10060)
+[2026-09-18 05:37:36] FAILED via SMTP: CREATED Ticket JOB-1139 (Admin) to it-support@company.com
+[2026-09-18 05:37:38] LOGGED (Local Sim): CREATED Ticket JOB-1139 (Admin) to it-support@company.com
+[2026-09-18 05:37:38] Brevo API Error: API Key is empty in config/mail.php
+[2026-09-18 05:37:38] FAILED via Brevo API, trying SMTP fallback...: CREATED Ticket JOB-1139 (User: alkjhgfdslss@gmail.com) to alkjhgfdslss@gmail.com
+[2026-09-18 05:37:53] SMTP Connection Failed to smtp.gmail.com:587 - Error: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond (10060)
+[2026-09-18 05:37:53] FAILED via SMTP: CREATED Ticket JOB-1139 (User: alkjhgfdslss@gmail.com) to alkjhgfdslss@gmail.com
+[2026-09-18 05:37:56] LOGGED (Local Sim): CREATED Ticket JOB-1139 (User: alkjhgfdslss@gmail.com) to alkjhgfdslss@gmail.com
+[2026-09-18 05:37:56] Brevo API Error: API Key is empty in config/mail.php
+[2026-09-18 05:37:56] FAILED via Brevo API, trying SMTP fallback...: CREATED Ticket JOB-1192 (Admin) to it-support@company.com
+[2026-09-18 05:38:11] SMTP Connection Failed to smtp.gmail.com:587 - Error: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond (10060)
+[2026-09-18 05:38:11] FAILED via SMTP: CREATED Ticket JOB-1192 (Admin) to it-support@company.com
+[2026-09-18 05:38:13] LOGGED (Local Sim): CREATED Ticket JOB-1192 (Admin) to it-support@company.com
+[2026-09-18 05:38:13] Brevo API Error: API Key is empty in config/mail.php
+[2026-09-18 05:38:13] FAILED via Brevo API, trying SMTP fallback...: CREATED Ticket JOB-1192 (User: alkjhgfdslss@gmail.com) to alkjhgfdslss@gmail.com
+[2026-09-18 05:38:28] SMTP Connection Failed to smtp.gmail.com:587 - Error: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond (10060)
+[2026-09-18 05:38:28] FAILED via SMTP: CREATED Ticket JOB-1192 (User: alkjhgfdslss@gmail.com) to alkjhgfdslss@gmail.com
+[2026-09-18 05:38:30] LOGGED (Local Sim): CREATED Ticket JOB-1192 (User: alkjhgfdslss@gmail.com) to alkjhgfdslss@gmail.com
+[2026-09-18 05:38:30] Brevo API Error: API Key is empty in config/mail.php
+[2026-09-18 05:38:30] FAILED via Brevo API, trying SMTP fallback...: CREATED Ticket JOB-5814 (Admin) to it-support@company.com
+[2026-09-18 05:38:45] SMTP Connection Failed to smtp.gmail.com:587 - Error: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond (10060)
+[2026-09-18 05:38:45] FAILED via SMTP: CREATED Ticket JOB-5814 (Admin) to it-support@company.com
+[2026-09-18 05:38:47] LOGGED (Local Sim): CREATED Ticket JOB-5814 (Admin) to it-support@company.com
+[2026-09-18 05:38:47] Brevo API Error: API Key is empty in config/mail.php
+[2026-09-18 05:38:47] FAILED via Brevo API, trying SMTP fallback...: CREATED Ticket JOB-5814 (User: alkjhgfdslss@gmail.com) to alkjhgfdslss@gmail.com
+[2026-09-18 05:39:02] SMTP Connection Failed to smtp.gmail.com:587 - Error: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond (10060)
+[2026-09-18 05:39:02] FAILED via SMTP: CREATED Ticket JOB-5814 (User: alkjhgfdslss@gmail.com) to alkjhgfdslss@gmail.com
+[2026-09-18 05:39:04] LOGGED (Local Sim): CREATED Ticket JOB-5814 (User: alkjhgfdslss@gmail.com) to alkjhgfdslss@gmail.com
+[2026-09-18 05:39:39] Brevo API Error: API Key is empty in config/mail.php
+[2026-09-18 05:39:39] FAILED via Brevo API, trying SMTP fallback...: COMPLETED Ticket JOB-5814 (User: alkjhgfdslss@gmail.com) to alkjhgfdslss@gmail.com
+[2026-09-18 05:39:54] SMTP Connection Failed to smtp.gmail.com:587 - Error: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond (10060)
+[2026-09-18 05:39:54] FAILED via SMTP: COMPLETED Ticket JOB-5814 (User: alkjhgfdslss@gmail.com) to alkjhgfdslss@gmail.com
+[2026-09-18 05:39:56] LOGGED (Local Sim): COMPLETED Ticket JOB-5814 (User: alkjhgfdslss@gmail.com) to alkjhgfdslss@gmail.com
+[2026-09-18 05:39:56] Brevo API Error: API Key is empty in config/mail.php
+[2026-09-18 05:39:56] FAILED via Brevo API, trying SMTP fallback...: COMPLETED Ticket JOB-5814 (User: alkjhgfdslss@gmail.com) to alkjhgfdslss@gmail.com
+[2026-09-18 05:40:11] SMTP Connection Failed to smtp.gmail.com:587 - Error: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond (10060)
+[2026-09-18 05:40:11] FAILED via SMTP: COMPLETED Ticket JOB-5814 (User: alkjhgfdslss@gmail.com) to alkjhgfdslss@gmail.com
+[2026-09-18 05:40:14] LOGGED (Local Sim): COMPLETED Ticket JOB-5814 (User: alkjhgfdslss@gmail.com) to alkjhgfdslss@gmail.com
+[2026-09-18 05:40:14] Brevo API Error: API Key is empty in config/mail.php
+[2026-09-18 05:40:14] FAILED via Brevo API, trying SMTP fallback...: COMPLETED Ticket JOB-5814 (User: alkjhgfdslss@gmail.com) to alkjhgfdslss@gmail.com
+[2026-09-18 05:40:29] SMTP Connection Failed to smtp.gmail.com:587 - Error: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond (10060)
+[2026-09-18 05:40:29] FAILED via SMTP: COMPLETED Ticket JOB-5814 (User: alkjhgfdslss@gmail.com) to alkjhgfdslss@gmail.com
+[2026-09-18 05:40:31] LOGGED (Local Sim): COMPLETED Ticket JOB-5814 (User: alkjhgfdslss@gmail.com) to alkjhgfdslss@gmail.com
+[2026-09-18 05:40:31] Brevo API Error: API Key is empty in config/mail.php
+[2026-09-18 05:40:31] FAILED via Brevo API, trying SMTP fallback...: COMPLETED Ticket JOB-5814 (User: alkjhgfdslss@gmail.com) to alkjhgfdslss@gmail.com
+[2026-09-18 05:40:46] SMTP Connection Failed to smtp.gmail.com:587 - Error: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond (10060)
+[2026-09-18 05:40:46] FAILED via SMTP: COMPLETED Ticket JOB-5814 (User: alkjhgfdslss@gmail.com) to alkjhgfdslss@gmail.com
+[2026-09-18 05:40:48] LOGGED (Local Sim): COMPLETED Ticket JOB-5814 (User: alkjhgfdslss@gmail.com) to alkjhgfdslss@gmail.com
+[2026-09-18 05:40:48] Brevo API Error: API Key is empty in config/mail.php
+[2026-09-18 05:40:48] FAILED via Brevo API, trying SMTP fallback...: COMPLETED Ticket JOB-5814 (User: alkjhgfdslss@gmail.com) to alkjhgfdslss@gmail.com
+[2026-09-18 05:41:03] SMTP Connection Failed to smtp.gmail.com:587 - Error: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond (10060)
+[2026-09-18 05:41:03] FAILED via SMTP: COMPLETED Ticket JOB-5814 (User: alkjhgfdslss@gmail.com) to alkjhgfdslss@gmail.com
+[2026-09-18 05:41:05] LOGGED (Local Sim): COMPLETED Ticket JOB-5814 (User: alkjhgfdslss@gmail.com) to alkjhgfdslss@gmail.com
+[2026-09-18 05:41:05] Brevo API Error: API Key is empty in config/mail.php
+[2026-09-18 05:41:05] FAILED via Brevo API, trying SMTP fallback...: COMPLETED Ticket JOB-5814 (User: alkjhgfdslss@gmail.com) to alkjhgfdslss@gmail.com
+[2026-09-18 05:41:20] SMTP Connection Failed to smtp.gmail.com:587 - Error: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond (10060)
+[2026-09-18 05:41:20] FAILED via SMTP: COMPLETED Ticket JOB-5814 (User: alkjhgfdslss@gmail.com) to alkjhgfdslss@gmail.com
+[2026-09-18 05:41:22] LOGGED (Local Sim): COMPLETED Ticket JOB-5814 (User: alkjhgfdslss@gmail.com) to alkjhgfdslss@gmail.com
+[2026-09-18 05:41:22] Brevo API Error: API Key is empty in config/mail.php
+[2026-09-18 05:41:22] FAILED via Brevo API, trying SMTP fallback...: COMPLETED Ticket JOB-5814 (User: alkjhgfdslss@gmail.com) to alkjhgfdslss@gmail.com
+[2026-09-18 05:41:37] SMTP Connection Failed to smtp.gmail.com:587 - Error: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond (10060)
+[2026-09-18 05:41:37] FAILED via SMTP: COMPLETED Ticket JOB-5814 (User: alkjhgfdslss@gmail.com) to alkjhgfdslss@gmail.com
+[2026-09-18 05:41:39] LOGGED (Local Sim): COMPLETED Ticket JOB-5814 (User: alkjhgfdslss@gmail.com) to alkjhgfdslss@gmail.com
+[2026-09-18 05:41:39] Brevo API Error: API Key is empty in config/mail.php
+[2026-09-18 05:41:39] FAILED via Brevo API, trying SMTP fallback...: COMPLETED Ticket JOB-5814 (User: alkjhgfdslss@gmail.com) to alkjhgfdslss@gmail.com
+[2026-09-18 05:41:54] SMTP Connection Failed to smtp.gmail.com:587 - Error: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond (10060)
+[2026-09-18 05:41:54] FAILED via SMTP: COMPLETED Ticket JOB-5814 (User: alkjhgfdslss@gmail.com) to alkjhgfdslss@gmail.com
+[2026-09-18 05:41:56] LOGGED (Local Sim): COMPLETED Ticket JOB-5814 (User: alkjhgfdslss@gmail.com) to alkjhgfdslss@gmail.com
+[2026-09-18 05:41:56] Brevo API Error: API Key is empty in config/mail.php
+[2026-09-18 05:41:56] FAILED via Brevo API, trying SMTP fallback...: COMPLETED Ticket JOB-5814 (User: alkjhgfdslss@gmail.com) to alkjhgfdslss@gmail.com
+[2026-09-18 05:42:11] SMTP Connection Failed to smtp.gmail.com:587 - Error: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond (10060)
+[2026-09-18 05:42:11] FAILED via SMTP: COMPLETED Ticket JOB-5814 (User: alkjhgfdslss@gmail.com) to alkjhgfdslss@gmail.com
+[2026-09-18 05:42:13] LOGGED (Local Sim): COMPLETED Ticket JOB-5814 (User: alkjhgfdslss@gmail.com) to alkjhgfdslss@gmail.com
+[2026-09-18 05:42:13] Brevo API Error: API Key is empty in config/mail.php
+[2026-09-18 05:42:13] FAILED via Brevo API, trying SMTP fallback...: COMPLETED Ticket JOB-5814 (User: alkjhgfdslss@gmail.com) to alkjhgfdslss@gmail.com
+[2026-09-18 05:42:28] SMTP Connection Failed to smtp.gmail.com:587 - Error: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond (10060)
+[2026-09-18 05:42:28] FAILED via SMTP: COMPLETED Ticket JOB-5814 (User: alkjhgfdslss@gmail.com) to alkjhgfdslss@gmail.com
+[2026-09-18 05:42:30] LOGGED (Local Sim): COMPLETED Ticket JOB-5814 (User: alkjhgfdslss@gmail.com) to alkjhgfdslss@gmail.com
+[2026-09-18 05:43:46] Brevo API Error: API Key is empty in config/mail.php
+[2026-09-18 05:43:46] FAILED via Brevo API, trying SMTP fallback...: CREATED Ticket JOB-4539 (Admin) to it-support@company.com
+[2026-09-18 05:44:01] SMTP Connection Failed to smtp.gmail.com:587 - Error: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond (10060)
+[2026-09-18 05:44:01] FAILED via SMTP: CREATED Ticket JOB-4539 (Admin) to it-support@company.com
+[2026-09-18 05:44:03] LOGGED (Local Sim): CREATED Ticket JOB-4539 (Admin) to it-support@company.com
+[2026-09-18 05:44:03] Brevo API Error: API Key is empty in config/mail.php
+[2026-09-18 05:44:03] FAILED via Brevo API, trying SMTP fallback...: CREATED Ticket JOB-4539 (User: alkjhgfdslss@gmail.com) to alkjhgfdslss@gmail.com
+[2026-09-18 05:44:18] SMTP Connection Failed to smtp.gmail.com:587 - Error: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond (10060)
+[2026-09-18 05:44:18] FAILED via SMTP: CREATED Ticket JOB-4539 (User: alkjhgfdslss@gmail.com) to alkjhgfdslss@gmail.com
+[2026-09-18 05:44:20] LOGGED (Local Sim): CREATED Ticket JOB-4539 (User: alkjhgfdslss@gmail.com) to alkjhgfdslss@gmail.com
+[2026-09-18 05:44:49] Brevo API Error: API Key is empty in config/mail.php
+[2026-09-18 05:44:49] FAILED via Brevo API, trying SMTP fallback...: COMPLETED Ticket JOB-4539 (User: alkjhgfdslss@gmail.com) to alkjhgfdslss@gmail.com
+[2026-09-18 05:45:04] SMTP Connection Failed to smtp.gmail.com:587 - Error: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond (10060)
+[2026-09-18 05:45:04] FAILED via SMTP: COMPLETED Ticket JOB-4539 (User: alkjhgfdslss@gmail.com) to alkjhgfdslss@gmail.com
+[2026-09-18 05:45:06] LOGGED (Local Sim): COMPLETED Ticket JOB-4539 (User: alkjhgfdslss@gmail.com) to alkjhgfdslss@gmail.com
+[2026-09-18 05:45:06] Brevo API Error: API Key is empty in config/mail.php
+[2026-09-18 05:45:06] FAILED via Brevo API, trying SMTP fallback...: COMPLETED Ticket JOB-4539 (User: alkjhgfdslss@gmail.com) to alkjhgfdslss@gmail.com
+[2026-09-18 05:45:21] SMTP Connection Failed to smtp.gmail.com:587 - Error: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond (10060)
+[2026-09-18 05:45:21] FAILED via SMTP: COMPLETED Ticket JOB-4539 (User: alkjhgfdslss@gmail.com) to alkjhgfdslss@gmail.com
+[2026-09-18 05:45:23] LOGGED (Local Sim): COMPLETED Ticket JOB-4539 (User: alkjhgfdslss@gmail.com) to alkjhgfdslss@gmail.com
+[2026-09-18 05:47:48] Brevo API Error: API Key is empty in config/mail.php
+[2026-09-18 05:47:48] FAILED via Brevo API, trying SMTP fallback...: CREATED Ticket JOB-5827 (Admin) to it-support@company.com
+[2026-09-18 05:47:53] SUCCESS via SMTP: CREATED Ticket JOB-5827 (Admin) to it-support@company.com
+[2026-09-18 05:47:53] Brevo API Error: API Key is empty in config/mail.php
+[2026-09-18 05:47:53] FAILED via Brevo API, trying SMTP fallback...: CREATED Ticket JOB-5827 (User: alkjhgfdslss@gmail.com) to alkjhgfdslss@gmail.com
+[2026-09-18 05:47:57] SUCCESS via SMTP: CREATED Ticket JOB-5827 (User: alkjhgfdslss@gmail.com) to alkjhgfdslss@gmail.com
+[2026-09-18 05:48:25] Brevo API Error: API Key is empty in config/mail.php
+[2026-09-18 05:48:25] FAILED via Brevo API, trying SMTP fallback...: COMPLETED Ticket JOB-5827 (User: alkjhgfdslss@gmail.com) to alkjhgfdslss@gmail.com
+[2026-09-18 05:48:29] SUCCESS via SMTP: COMPLETED Ticket JOB-5827 (User: alkjhgfdslss@gmail.com) to alkjhgfdslss@gmail.com
+[2026-09-18 05:50:29] Brevo API Error: API Key is empty in config/mail.php
+[2026-09-18 05:50:29] FAILED via Brevo API, trying SMTP fallback...: CREATED Ticket JOB-3738 (Admin) to it-support@company.com
+[2026-09-18 05:50:44] SMTP Connection Failed to ssl://smtp.gmail.com:587 - Error: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond (10060)
+[2026-09-18 05:50:44] FAILED via SMTP: CREATED Ticket JOB-3738 (Admin) to it-support@company.com
+[2026-09-18 05:50:46] LOGGED (Local Sim): CREATED Ticket JOB-3738 (Admin) to it-support@company.com
+[2026-09-18 05:50:46] Brevo API Error: API Key is empty in config/mail.php
+[2026-09-18 05:50:46] FAILED via Brevo API, trying SMTP fallback...: CREATED Ticket JOB-3738 (User: alkjhgfdslss@gmail.com) to alkjhgfdslss@gmail.com
+[2026-09-18 05:51:01] SMTP Connection Failed to ssl://smtp.gmail.com:587 - Error: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond (10060)
+[2026-09-18 05:51:01] FAILED via SMTP: CREATED Ticket JOB-3738 (User: alkjhgfdslss@gmail.com) to alkjhgfdslss@gmail.com
+[2026-09-18 05:51:03] LOGGED (Local Sim): CREATED Ticket JOB-3738 (User: alkjhgfdslss@gmail.com) to alkjhgfdslss@gmail.com
+[2026-09-18 05:51:35] Brevo API Error: API Key is empty in config/mail.php
+[2026-09-18 05:51:35] FAILED via Brevo API, trying SMTP fallback...: COMPLETED Ticket JOB-3738 (User: alkjhgfdslss@gmail.com) to alkjhgfdslss@gmail.com
+[2026-09-18 05:51:50] SMTP Connection Failed to ssl://smtp.gmail.com:587 - Error: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond (10060)
+[2026-09-18 05:51:50] FAILED via SMTP: COMPLETED Ticket JOB-3738 (User: alkjhgfdslss@gmail.com) to alkjhgfdslss@gmail.com
+[2026-09-18 05:51:52] LOGGED (Local Sim): COMPLETED Ticket JOB-3738 (User: alkjhgfdslss@gmail.com) to alkjhgfdslss@gmail.com
+[2026-09-18 05:59:00] Brevo API Error: API Key is empty in config/mail.php
+[2026-09-18 05:59:00] FAILED via Brevo API, trying SMTP fallback...: CREATED Ticket JOB-3545 (Admin) to it-support@company.com
+[2026-09-18 05:59:15] SMTP Connection Failed to ssl://smtp.gmail.com:587 - Error: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond (10060)
+[2026-09-18 05:59:15] FAILED via SMTP: CREATED Ticket JOB-3545 (Admin) to it-support@company.com
+[2026-09-18 05:59:17] LOGGED (Local Sim): CREATED Ticket JOB-3545 (Admin) to it-support@company.com
+[2026-09-18 05:59:17] Brevo API Error: API Key is empty in config/mail.php
+[2026-09-18 05:59:17] FAILED via Brevo API, trying SMTP fallback...: CREATED Ticket JOB-3545 (User: alkjhgfdslss@gmail.com) to alkjhgfdslss@gmail.com
+[2026-09-18 05:59:32] SMTP Connection Failed to ssl://smtp.gmail.com:587 - Error: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond (10060)
+[2026-09-18 05:59:32] FAILED via SMTP: CREATED Ticket JOB-3545 (User: alkjhgfdslss@gmail.com) to alkjhgfdslss@gmail.com
+[2026-09-18 05:59:34] LOGGED (Local Sim): CREATED Ticket JOB-3545 (User: alkjhgfdslss@gmail.com) to alkjhgfdslss@gmail.com
+[2026-09-18 05:59:46] Brevo API Error: API Key is empty in config/mail.php
+[2026-09-18 05:59:46] FAILED via Brevo API, trying SMTP fallback...: COMPLETED Ticket JOB-3545 (User: alkjhgfdslss@gmail.com) to alkjhgfdslss@gmail.com
+[2026-09-18 06:00:01] SMTP Connection Failed to ssl://smtp.gmail.com:587 - Error: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond (10060)
+[2026-09-18 06:00:01] FAILED via SMTP: COMPLETED Ticket JOB-3545 (User: alkjhgfdslss@gmail.com) to alkjhgfdslss@gmail.com
+[2026-09-18 06:00:03] LOGGED (Local Sim): COMPLETED Ticket JOB-3545 (User: alkjhgfdslss@gmail.com) to alkjhgfdslss@gmail.com
+[2026-09-18 06:01:55] Brevo API Error: API Key is empty in config/mail.php
+[2026-09-18 06:01:55] FAILED via Brevo API, trying SMTP fallback...: CREATED Ticket JOB-5915 (Admin) to it-support@company.com
+[2026-09-18 06:02:10] SMTP Connection Failed to ssl://smtp.gmail.com:587 - Error: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond (10060)
+[2026-09-18 06:02:10] FAILED via SMTP: CREATED Ticket JOB-5915 (Admin) to it-support@company.com
+[2026-09-18 06:02:12] LOGGED (Local Sim): CREATED Ticket JOB-5915 (Admin) to it-support@company.com
+[2026-09-18 06:02:12] Brevo API Error: API Key is empty in config/mail.php
+[2026-09-18 06:02:12] FAILED via Brevo API, trying SMTP fallback...: CREATED Ticket JOB-5915 (User: alkjhgfdslss@gmail.com) to alkjhgfdslss@gmail.com
+[2026-09-18 06:02:27] SMTP Connection Failed to ssl://smtp.gmail.com:587 - Error: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond (10060)
+[2026-09-18 06:02:27] FAILED via SMTP: CREATED Ticket JOB-5915 (User: alkjhgfdslss@gmail.com) to alkjhgfdslss@gmail.com
+[2026-09-18 06:02:29] LOGGED (Local Sim): CREATED Ticket JOB-5915 (User: alkjhgfdslss@gmail.com) to alkjhgfdslss@gmail.com
+[2026-09-18 06:02:42] Brevo API Error: API Key is empty in config/mail.php
+[2026-09-18 06:02:42] FAILED via Brevo API, trying SMTP fallback...: COMPLETED Ticket JOB-5915 (User: alkjhgfdslss@gmail.com) to alkjhgfdslss@gmail.com
+[2026-09-18 06:02:57] SMTP Connection Failed to ssl://smtp.gmail.com:587 - Error: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond (10060)
+[2026-09-18 06:02:57] FAILED via SMTP: COMPLETED Ticket JOB-5915 (User: alkjhgfdslss@gmail.com) to alkjhgfdslss@gmail.com
+[2026-09-18 06:02:59] LOGGED (Local Sim): COMPLETED Ticket JOB-5915 (User: alkjhgfdslss@gmail.com) to alkjhgfdslss@gmail.com
+[2026-09-18 06:09:08] Brevo API Error: API Key is empty in config/mail.php
+[2026-09-18 06:09:08] FAILED via Brevo API, trying SMTP fallback...: CREATED Ticket JOB-1453 (Admin) to it-support@company.com
+[2026-09-18 06:09:14] SUCCESS via SMTP: CREATED Ticket JOB-1453 (Admin) to it-support@company.com
+[2026-09-18 06:09:14] Brevo API Error: API Key is empty in config/mail.php
+[2026-09-18 06:09:14] FAILED via Brevo API, trying SMTP fallback...: CREATED Ticket JOB-1453 (User: alkjhgfdslss@gmail.com) to alkjhgfdslss@gmail.com
+[2026-09-18 06:09:19] SUCCESS via SMTP: CREATED Ticket JOB-1453 (User: alkjhgfdslss@gmail.com) to alkjhgfdslss@gmail.com
+[2026-09-18 06:11:47] Brevo API Error: API Key is empty in config/mail.php
+[2026-09-18 06:11:47] FAILED via Brevo API, trying SMTP fallback...: COMPLETED Ticket JOB-1453 (User: alkjhgfdslss@gmail.com) to alkjhgfdslss@gmail.com
+[2026-09-18 06:11:51] SUCCESS via SMTP: COMPLETED Ticket JOB-1453 (User: alkjhgfdslss@gmail.com) to alkjhgfdslss@gmail.com
+[2026-09-18 06:12:47] Brevo API Error: API Key is empty in config/mail.php
+[2026-09-18 06:12:47] FAILED via Brevo API, trying SMTP fallback...: CREATED Ticket JOB-6450 (Admin) to it-support@company.com
+[2026-09-18 06:12:52] SUCCESS via SMTP: CREATED Ticket JOB-6450 (Admin) to it-support@company.com
+[2026-09-18 06:12:52] Brevo API Error: API Key is empty in config/mail.php
+[2026-09-18 06:12:52] FAILED via Brevo API, trying SMTP fallback...: CREATED Ticket JOB-6450 (User: alkjhgfdslss@gmail.com) to alkjhgfdslss@gmail.com
+[2026-09-18 06:12:57] SUCCESS via SMTP: CREATED Ticket JOB-6450 (User: alkjhgfdslss@gmail.com) to alkjhgfdslss@gmail.com
+[2026-09-18 06:14:21] Brevo API Error: API Key is empty in config/mail.php
+[2026-09-18 06:14:21] FAILED via Brevo API, trying SMTP fallback...: COMPLETED Ticket JOB-6450 (User: alkjhgfdslss@gmail.com) to alkjhgfdslss@gmail.com
+[2026-09-18 06:14:27] SUCCESS via SMTP: COMPLETED Ticket JOB-6450 (User: alkjhgfdslss@gmail.com) to alkjhgfdslss@gmail.com
+[2026-09-18 06:14:27] Brevo API Error: API Key is empty in config/mail.php
+[2026-09-18 06:14:27] FAILED via Brevo API, trying SMTP fallback...: COMPLETED Ticket JOB-6450 (User: alkjhgfdslss@gmail.com) to alkjhgfdslss@gmail.com
+[2026-09-18 06:14:32] SUCCESS via SMTP: COMPLETED Ticket JOB-6450 (User: alkjhgfdslss@gmail.com) to alkjhgfdslss@gmail.com
+[2026-09-20 03:40:01] Brevo API Error: API Key is empty in config/mail.php
+[2026-09-20 03:40:01] FAILED via Brevo API, trying SMTP fallback...: CREATED Ticket JOB-8860 (Admin) to it-support@company.com
+[2026-09-20 03:40:05] SUCCESS via SMTP: CREATED Ticket JOB-8860 (Admin) to it-support@company.com
+[2026-09-20 03:40:05] Brevo API Error: API Key is empty in config/mail.php
+[2026-09-20 03:40:05] FAILED via Brevo API, trying SMTP fallback...: CREATED Ticket JOB-8860 (User: somchai@company.com) to somchai@company.com
+[2026-09-20 03:40:08] SUCCESS via SMTP: CREATED Ticket JOB-8860 (User: somchai@company.com) to somchai@company.com
+[2026-09-20 03:40:08] Brevo API Error: API Key is empty in config/mail.php
+[2026-09-20 03:40:08] FAILED via Brevo API, trying SMTP fallback...: COMPLETED Ticket JOB-8860 (User: somchai@company.com) to somchai@company.com
+[2026-09-20 03:40:12] SUCCESS via SMTP: COMPLETED Ticket JOB-8860 (User: somchai@company.com) to somchai@company.com
+[2026-09-20 03:46:04] Brevo API Error: API Key is empty in config/mail.php
+[2026-09-20 03:46:04] FAILED via Brevo API, trying SMTP fallback...: JOB ASSIGNED to สมศักดิ์ หัวหน้าแอดมิน IT (Admin) (admin@company.com) to admin@company.com
+[2026-09-20 03:46:08] SUCCESS via SMTP: JOB ASSIGNED to สมศักดิ์ หัวหน้าแอดมิน IT (Admin) (admin@company.com) to admin@company.com
+[2026-09-20 04:08:55] Brevo API Error: API Key is empty in config/mail.php
+[2026-09-20 04:08:55] FAILED via Brevo API, trying SMTP fallback...: JOB ASSIGNED to วิชัย ช่างคอมพิวเตอร์ (wichai@company.com) to wichai@company.com
+[2026-09-20 04:08:59] SUCCESS via SMTP: JOB ASSIGNED to วิชัย ช่างคอมพิวเตอร์ (wichai@company.com) to wichai@company.com
+[2026-09-20 04:09:03] Brevo API Error: API Key is empty in config/mail.php
+[2026-09-20 04:09:03] FAILED via Brevo API, trying SMTP fallback...: JOB ASSIGNED to วิชัย ช่างคอมพิวเตอร์ (wichai@company.com) to wichai@company.com
+[2026-09-20 04:09:07] SUCCESS via SMTP: JOB ASSIGNED to วิชัย ช่างคอมพิวเตอร์ (wichai@company.com) to wichai@company.com
+[2026-09-20 04:09:11] Brevo API Error: API Key is empty in config/mail.php
+[2026-09-20 04:09:11] FAILED via Brevo API, trying SMTP fallback...: JOB ASSIGNED to วิชัย ช่างคอมพิวเตอร์ (wichai@company.com) to wichai@company.com
+[2026-09-20 04:09:16] SUCCESS via SMTP: JOB ASSIGNED to วิชัย ช่างคอมพิวเตอร์ (wichai@company.com) to wichai@company.com
+[2026-09-20 04:09:24] Brevo API Error: API Key is empty in config/mail.php
+[2026-09-20 04:09:24] FAILED via Brevo API, trying SMTP fallback...: JOB ASSIGNED to วิชัย ช่างคอมพิวเตอร์ (wichai@company.com) to wichai@company.com
+[2026-09-20 04:09:28] SUCCESS via SMTP: JOB ASSIGNED to วิชัย ช่างคอมพิวเตอร์ (wichai@company.com) to wichai@company.com
+[2026-09-20 04:09:32] Brevo API Error: API Key is empty in config/mail.php
+[2026-09-20 04:09:32] FAILED via Brevo API, trying SMTP fallback...: JOB ASSIGNED to วิชัย ช่างคอมพิวเตอร์ (wichai@company.com) to wichai@company.com
+[2026-09-20 04:09:36] SUCCESS via SMTP: JOB ASSIGNED to วิชัย ช่างคอมพิวเตอร์ (wichai@company.com) to wichai@company.com
+[2026-09-20 04:09:40] Brevo API Error: API Key is empty in config/mail.php
+[2026-09-20 04:09:40] FAILED via Brevo API, trying SMTP fallback...: JOB ASSIGNED to วิชัย ช่างคอมพิวเตอร์ (wichai@company.com) to wichai@company.com
+[2026-09-20 04:09:43] SUCCESS via SMTP: JOB ASSIGNED to วิชัย ช่างคอมพิวเตอร์ (wichai@company.com) to wichai@company.com
+[2026-09-20 04:09:47] Brevo API Error: API Key is empty in config/mail.php
+[2026-09-20 04:09:47] FAILED via Brevo API, trying SMTP fallback...: JOB ASSIGNED to วิชัย ช่างคอมพิวเตอร์ (wichai@company.com) to wichai@company.com
+[2026-09-20 04:09:51] SUCCESS via SMTP: JOB ASSIGNED to วิชัย ช่างคอมพิวเตอร์ (wichai@company.com) to wichai@company.com
+[2026-09-20 04:09:55] Brevo API Error: API Key is empty in config/mail.php
+[2026-09-20 04:09:55] FAILED via Brevo API, trying SMTP fallback...: JOB ASSIGNED to วิชัย ช่างคอมพิวเตอร์ (wichai@company.com) to wichai@company.com
+[2026-09-20 04:09:59] SUCCESS via SMTP: JOB ASSIGNED to วิชัย ช่างคอมพิวเตอร์ (wichai@company.com) to wichai@company.com
+[2026-09-20 04:10:03] Brevo API Error: API Key is empty in config/mail.php
+[2026-09-20 04:10:03] FAILED via Brevo API, trying SMTP fallback...: JOB ASSIGNED to วิชัย ช่างคอมพิวเตอร์ (wichai@company.com) to wichai@company.com
+[2026-09-20 04:10:06] SUCCESS via SMTP: JOB ASSIGNED to วิชัย ช่างคอมพิวเตอร์ (wichai@company.com) to wichai@company.com
+[2026-09-20 04:10:10] Brevo API Error: API Key is empty in config/mail.php
+[2026-09-20 04:10:10] FAILED via Brevo API, trying SMTP fallback...: JOB ASSIGNED to วิชัย ช่างคอมพิวเตอร์ (wichai@company.com) to wichai@company.com
+[2026-09-20 04:10:15] SUCCESS via SMTP: JOB ASSIGNED to วิชัย ช่างคอมพิวเตอร์ (wichai@company.com) to wichai@company.com
+[2026-09-20 04:10:19] Brevo API Error: API Key is empty in config/mail.php
+[2026-09-20 04:10:19] FAILED via Brevo API, trying SMTP fallback...: JOB ASSIGNED to กิตติ ช่างเน็ตเวิร์ก (kitti@company.com) to kitti@company.com
+[2026-09-20 04:10:22] SUCCESS via SMTP: JOB ASSIGNED to กิตติ ช่างเน็ตเวิร์ก (kitti@company.com) to kitti@company.com
+[2026-09-20 04:10:27] Brevo API Error: API Key is empty in config/mail.php
+[2026-09-20 04:10:27] FAILED via Brevo API, trying SMTP fallback...: JOB ASSIGNED to กิตติ ช่างเน็ตเวิร์ก (kitti@company.com) to kitti@company.com
+[2026-09-20 04:10:30] SUCCESS via SMTP: JOB ASSIGNED to กิตติ ช่างเน็ตเวิร์ก (kitti@company.com) to kitti@company.com
+[2026-09-20 04:10:34] Brevo API Error: API Key is empty in config/mail.php
+[2026-09-20 04:10:34] FAILED via Brevo API, trying SMTP fallback...: JOB ASSIGNED to กิตติ ช่างเน็ตเวิร์ก (kitti@company.com) to kitti@company.com
+[2026-09-20 04:10:38] SUCCESS via SMTP: JOB ASSIGNED to กิตติ ช่างเน็ตเวิร์ก (kitti@company.com) to kitti@company.com
+[2026-09-20 04:10:42] Brevo API Error: API Key is empty in config/mail.php
+[2026-09-20 04:10:42] FAILED via Brevo API, trying SMTP fallback...: JOB ASSIGNED to กิตติ ช่างเน็ตเวิร์ก (kitti@company.com) to kitti@company.com
+[2026-09-20 04:10:45] SUCCESS via SMTP: JOB ASSIGNED to กิตติ ช่างเน็ตเวิร์ก (kitti@company.com) to kitti@company.com
+[2026-09-20 04:10:49] Brevo API Error: API Key is empty in config/mail.php
+[2026-09-20 04:10:49] FAILED via Brevo API, trying SMTP fallback...: JOB ASSIGNED to กิตติ ช่างเน็ตเวิร์ก (kitti@company.com) to kitti@company.com
+[2026-09-20 04:10:52] SUCCESS via SMTP: JOB ASSIGNED to กิตติ ช่างเน็ตเวิร์ก (kitti@company.com) to kitti@company.com
+[2026-09-20 04:11:04] Brevo API Error: API Key is empty in config/mail.php
+[2026-09-20 04:11:04] FAILED via Brevo API, trying SMTP fallback...: JOB ASSIGNED to สมศักดิ์ หัวหน้าแอดมิน IT (Admin) (admin@company.com) to admin@company.com
+[2026-09-20 04:11:08] SUCCESS via SMTP: JOB ASSIGNED to สมศักดิ์ หัวหน้าแอดมิน IT (Admin) (admin@company.com) to admin@company.com
+[2026-09-20 04:11:13] Brevo API Error: API Key is empty in config/mail.php
+[2026-09-20 04:11:13] FAILED via Brevo API, trying SMTP fallback...: JOB ASSIGNED to วิชัย ช่างคอมพิวเตอร์ (wichai@company.com) to wichai@company.com
+[2026-09-20 04:11:17] SUCCESS via SMTP: JOB ASSIGNED to วิชัย ช่างคอมพิวเตอร์ (wichai@company.com) to wichai@company.com
+[2026-09-20 04:11:17] Brevo API Error: API Key is empty in config/mail.php
+[2026-09-20 04:11:17] FAILED via Brevo API, trying SMTP fallback...: JOB ASSIGNED to กิตติ ช่างเน็ตเวิร์ก (kitti@company.com) to kitti@company.com
+[2026-09-20 04:11:20] SUCCESS via SMTP: JOB ASSIGNED to กิตติ ช่างเน็ตเวิร์ก (kitti@company.com) to kitti@company.com
+[2026-09-20 04:11:21] Brevo API Error: API Key is empty in config/mail.php
+[2026-09-20 04:11:21] FAILED via Brevo API, trying SMTP fallback...: JOB ASSIGNED to วิชัย ช่างคอมพิวเตอร์ (wichai@company.com) to wichai@company.com
+[2026-09-20 04:11:24] SUCCESS via SMTP: JOB ASSIGNED to วิชัย ช่างคอมพิวเตอร์ (wichai@company.com) to wichai@company.com
+[2026-09-20 04:15:10] Brevo API Error: API Key is empty in config/mail.php
+[2026-09-20 04:15:10] FAILED via Brevo API, trying SMTP fallback...: JOB ASSIGNED to ธีระ ช่างอุปกรณ์ทั่วไป (theera@company.com) to theera@company.com
+[2026-09-20 04:15:15] SUCCESS via SMTP: JOB ASSIGNED to ธีระ ช่างอุปกรณ์ทั่วไป (theera@company.com) to theera@company.com
+[2026-09-20 04:17:07] Brevo API Error: API Key is empty in config/mail.php
+[2026-09-20 04:17:07] FAILED via Brevo API, trying SMTP fallback...: JOB ASSIGNED to วิชัย ช่างคอมพิวเตอร์ (wichai@company.com) to wichai@company.com
+[2026-09-20 04:17:11] SUCCESS via SMTP: JOB ASSIGNED to วิชัย ช่างคอมพิวเตอร์ (wichai@company.com) to wichai@company.com
+[2026-09-20 04:17:15] Brevo API Error: API Key is empty in config/mail.php
+[2026-09-20 04:17:15] FAILED via Brevo API, trying SMTP fallback...: JOB ASSIGNED to กิตติ ช่างเน็ตเวิร์ก (kitti@company.com) to kitti@company.com
+[2026-09-20 04:17:19] SUCCESS via SMTP: JOB ASSIGNED to กิตติ ช่างเน็ตเวิร์ก (kitti@company.com) to kitti@company.com
+[2026-09-20 04:17:23] Brevo API Error: API Key is empty in config/mail.php
+[2026-09-20 04:17:23] FAILED via Brevo API, trying SMTP fallback...: JOB ASSIGNED to สมศักดิ์ หัวหน้าแอดมิน IT (Admin) (admin@company.com) to admin@company.com
+[2026-09-20 04:17:27] SUCCESS via SMTP: JOB ASSIGNED to สมศักดิ์ หัวหน้าแอดมิน IT (Admin) (admin@company.com) to admin@company.com
+[2026-09-20 04:18:42] Brevo API Error: API Key is empty in config/mail.php
+[2026-09-20 04:18:42] FAILED via Brevo API, trying SMTP fallback...: JOB ASSIGNED to กิตติ ช่างเน็ตเวิร์ก (kitti@company.com) to kitti@company.com
+[2026-09-20 04:18:45] SUCCESS via SMTP: JOB ASSIGNED to กิตติ ช่างเน็ตเวิร์ก (kitti@company.com) to kitti@company.com
+[2026-09-20 04:19:41] Brevo API Error: API Key is empty in config/mail.php
+[2026-09-20 04:19:41] FAILED via Brevo API, trying SMTP fallback...: JOB ASSIGNED to กิตติ ช่างเน็ตเวิร์ก (kitti@company.com) to kitti@company.com
+[2026-09-20 04:19:45] SUCCESS via SMTP: JOB ASSIGNED to กิตติ ช่างเน็ตเวิร์ก (kitti@company.com) to kitti@company.com
+[2026-09-20 04:20:37] Brevo API Error: API Key is empty in config/mail.php
+[2026-09-20 04:20:37] FAILED via Brevo API, trying SMTP fallback...: JOB ASSIGNED to กิตติ ช่างเน็ตเวิร์ก (kitti@company.com) to kitti@company.com
+[2026-09-20 04:20:40] SUCCESS via SMTP: JOB ASSIGNED to กิตติ ช่างเน็ตเวิร์ก (kitti@company.com) to kitti@company.com
+[2026-09-20 04:25:27] Brevo API Error: API Key is empty in config/mail.php
+[2026-09-20 04:25:27] FAILED via Brevo API, trying SMTP fallback...: JOB ASSIGNED to กิตติ ช่างเน็ตเวิร์ก (kitti@company.com) to kitti@company.com
+[2026-09-20 04:25:30] SUCCESS via SMTP: JOB ASSIGNED to กิตติ ช่างเน็ตเวิร์ก (kitti@company.com) to kitti@company.com
+[2026-09-20 04:27:44] Brevo API Error: API Key is empty in config/mail.php
+[2026-09-20 04:27:44] FAILED via Brevo API, trying SMTP fallback...: JOB ASSIGNED to สมศักดิ์ หัวหน้าแอดมิน IT (Admin) (admin@company.com) to admin@company.com
+[2026-09-20 04:27:48] SUCCESS via SMTP: JOB ASSIGNED to สมศักดิ์ หัวหน้าแอดมิน IT (Admin) (admin@company.com) to admin@company.com
+[2026-09-20 04:57:00] Brevo API Error: API Key is empty in config/mail.php
+[2026-09-20 04:57:00] FAILED via Brevo API, trying SMTP fallback...: COMPLETED Ticket JOB-1006 (User: rungthip@company.com) to rungthip@company.com
+[2026-09-20 04:57:04] SUCCESS via SMTP: COMPLETED Ticket JOB-1006 (User: rungthip@company.com) to rungthip@company.com
+[2026-09-20 04:57:08] Brevo API Error: API Key is empty in config/mail.php
+[2026-09-20 04:57:08] FAILED via Brevo API, trying SMTP fallback...: COMPLETED Ticket JOB-1006 (User: rungthip@company.com) to rungthip@company.com
+[2026-09-20 04:57:12] SUCCESS via SMTP: COMPLETED Ticket JOB-1006 (User: rungthip@company.com) to rungthip@company.com
+[2026-09-20 04:57:16] Brevo API Error: API Key is empty in config/mail.php
+[2026-09-20 04:57:16] FAILED via Brevo API, trying SMTP fallback...: COMPLETED Ticket JOB-1006 (User: rungthip@company.com) to rungthip@company.com
+[2026-09-20 04:57:20] SUCCESS via SMTP: COMPLETED Ticket JOB-1006 (User: rungthip@company.com) to rungthip@company.com
+[2026-09-20 04:57:24] Brevo API Error: API Key is empty in config/mail.php
+[2026-09-20 04:57:24] FAILED via Brevo API, trying SMTP fallback...: COMPLETED Ticket JOB-1006 (User: rungthip@company.com) to rungthip@company.com
+[2026-09-20 04:57:28] SUCCESS via SMTP: COMPLETED Ticket JOB-1006 (User: rungthip@company.com) to rungthip@company.com
+[2026-09-20 04:57:32] Brevo API Error: API Key is empty in config/mail.php
+[2026-09-20 04:57:32] FAILED via Brevo API, trying SMTP fallback...: COMPLETED Ticket JOB-1006 (User: rungthip@company.com) to rungthip@company.com
+[2026-09-20 04:57:35] SUCCESS via SMTP: COMPLETED Ticket JOB-1006 (User: rungthip@company.com) to rungthip@company.com
+[2026-09-20 04:57:39] Brevo API Error: API Key is empty in config/mail.php
+[2026-09-20 04:57:39] FAILED via Brevo API, trying SMTP fallback...: COMPLETED Ticket JOB-1006 (User: rungthip@company.com) to rungthip@company.com
+[2026-09-20 04:57:43] SUCCESS via SMTP: COMPLETED Ticket JOB-1006 (User: rungthip@company.com) to rungthip@company.com
+[2026-09-20 05:54:24] LOGGED (Local Sim): JOB ASSIGNED to กิตติ ช่างเน็ตเวิร์ก (kitti@company.com) to kitti@company.com
+[2026-09-20 05:54:53] LOGGED (Local Sim): JOB ASSIGNED to สมศักดิ์ หัวหน้าแอดมิน IT (Admin) (admin@company.com) to admin@company.com
